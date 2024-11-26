@@ -53,6 +53,15 @@ In order to run ablation experiment, run:
 python  exp_ablation.py
 ```
 
+If you use our algorithms and data sets in your research, please cite the following papers as reference in your publicaions:
+
+@inproceedings{tan2023schash,  
+&emsp;&emsp;title={{S}CHash: {S}peedy {S}implicial {C}omplex {N}eural {N}etworks via {R}andomized {H}ashing},  
+&emsp;&emsp;author={Tan, Xuan and Wu, Wei and Luo, Chuan},  
+&emsp;&emsp;booktitle={SIGIR},  
+&emsp;&emsp;pages={1609--1618},  
+&emsp;&emsp;year={2023}  
+}
 
 
 
