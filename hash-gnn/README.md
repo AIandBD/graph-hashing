@@ -56,9 +56,9 @@ Generation of experimental results in Matlab
 If you use our algorithms and data sets in your research, please cite the following papers as reference in your publicaions:
 
 @inproceedings{wu2021hashing,  
- title={{H}ashing-{A}ccelerated {G}raph {N}eural {N}etworks for {L}ink {P}rediction},  
- author={Wu, Wei and Li, Bin and Luo, Chuan and Nejdl, Wolfgang},  
- booktitle={WWW},  
- pages={2910--2920},  
- year={2021}  
+&emsp;&emsp;title={{H}ashing-{A}ccelerated {G}raph {N}eural {N}etworks for {L}ink {P}rediction},  
+&emsp;&emsp;author={Wu, Wei and Li, Bin and Luo, Chuan and Nejdl, Wolfgang},  
+&emsp;&emsp;booktitle={WWW},  
+&emsp;&emsp;pages={2910--2920},  
+&emsp;&emsp;year={2021}  
 }
