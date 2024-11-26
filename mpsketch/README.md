@@ -73,11 +73,11 @@ Experimental results in Matlab
 If you use our algorithms and data sets in your research, please cite the following papers as reference in your publicaions:
 
 @article{wu2023mpsketch,  
-  title={{MPS}ketch: {M}essage {P}assing {N}etworks via {R}andomized {H}ashing for {E}fficient {A}ttributed {N}etwork {E}mbedding},  
-  author={Wu, Wei and Li, Bin and Luo, Chuan and Nejdl, Wolfgang and Tan, Xuan},  
-  journal={IEEE Transactions on Cybernetics},  
-  volume={54},  
-  number={5},  
-  pages={2941--2954},  
-  year={2024}  
+  &emsp;&emsp;title={{MPS}ketch: {M}essage {P}assing {N}etworks via {R}andomized {H}ashing for {E}fficient {A}ttributed {N}etwork {E}mbedding},  
+  &emsp;&emsp;author={Wu, Wei and Li, Bin and Luo, Chuan and Nejdl, Wolfgang and Tan, Xuan},  
+  &emsp;&emsp;journal={IEEE Transactions on Cybernetics},  
+  &emsp;&emsp;volume={54},  
+  &emsp;&emsp;number={5},  
+  &emsp;&emsp;pages={2941--2954},  
+  &emsp;&emsp;year={2024}  
 }
