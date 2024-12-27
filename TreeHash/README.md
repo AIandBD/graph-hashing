@@ -65,6 +65,6 @@ If you use our algorithms and data sets in your research, please cite the follow
 &emsp;&emsp;journal = {Expert Systems with Applications},  
 &emsp;&emsp;volume = {267},  
 &emsp;&emsp;pages = {125973},  
-&emsp;&emsp;year = {2025},  
+&emsp;&emsp;year = {2025}  
 }
 
