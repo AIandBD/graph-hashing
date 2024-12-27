@@ -59,11 +59,12 @@ In this repository, we have the following directories:
 
 If you use our algorithms and data sets in your research, please cite the following papers as reference in your publicaions:
 
-@inproceedings{tan2023schash,  
-&emsp;&emsp;title={{S}CHash: {S}peedy {S}implicial {C}omplex {N}eural {N}etworks via {R}andomized {H}ashing},  
-&emsp;&emsp;author={Tan, Xuan and Wu, Wei and Luo, Chuan},  
-&emsp;&emsp;booktitle={SIGIR},  
-&emsp;&emsp;pages={1609--1618},  
-&emsp;&emsp;year={2023}  
+@inproceedings{wu2025simple,  
+&emsp;&emsp;title={{S}imple and {E}fficient {H}ash {S}ketching for {T}ree-{S}tructured {D}ata},  
+&emsp;&emsp;author={Wu, Wei and Jiang, Mi and Luo, Chuan and Li, Fangfang },  
+&emsp;&emsp;journal = {Expert Systems with Applications}, 
+&emsp;&emsp;volume = {267},
+&emsp;&emsp;pages = {125973},
+&emsp;&emsp;year = {2025},
 }
 
