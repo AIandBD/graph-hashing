@@ -59,10 +59,10 @@ In this repository, we have the following directories:
 
 If you use our algorithms and data sets in your research, please cite the following papers as reference in your publicaions:
 @article{wu2025simple,
-title = {{S}imple and {E}fficient {H}ash {S}ketching for {T}ree-{S}tructured {D}ata},
-author = {Wu, Wei and Jiang, Mi and Luo, Chuan and Li, Fangfang}
-journal = {Expert Systems with Applications},
-volume = {267},
-pages = {125973},
-year = {2025}
+&emsp;&emsp;title = {{S}imple and {E}fficient {H}ash {S}ketching for {T}ree-{S}tructured {D}ata},
+&emsp;&emsp;author = {Wu, Wei and Jiang, Mi and Luo, Chuan and Li, Fangfang}
+&emsp;&emsp;journal = {Expert Systems with Applications},
+&emsp;&emsp;volume = {267},
+&emsp;&emsp;pages = {125973},
+&emsp;&emsp;year = {2025}
 }
