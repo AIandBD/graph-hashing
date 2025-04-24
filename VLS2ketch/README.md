@@ -51,3 +51,12 @@ python nodeClassification.py --dataset ogbn-product --K 200 --timestep 10 --star
 python linkPrediction.py --dataset ogbn-product --K 200 --timestep 10 --start_year 0   
 ```
 
+If you use our algorithms and data sets in your research, please cite the following papers as reference in your publicaions:
+
+@inproceedings{wu2025sketching,  
+&emsp;&emsp;title={{S}keching {V}ery {L}arge-scale {D}ynamic {A}ttributed {N}etworks {M}ore {P}ractically},  
+&emsp;&emsp;author={Wu, Wei and Li, Shiqi and Chen, Ling and Li， Fangfang and Luo, Chuan},  
+&emsp;&emsp;booktitle={Proceedings of the ACM on Web Conference 2025},  
+&emsp;&emsp;pages={5264--5274},  
+&emsp;&emsp;year={2025}  
+}
