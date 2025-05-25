@@ -1,5 +1,7 @@
 The datasets and source code of #GNN are for Hashing-Accelerated Graph Neural Networks for Link Prediction in WWW 2021.
 
+This algorithm has been adopted in [neo4j](https://neo4j.com/docs/graph-data-science/current/machine-learning/node-embeddings/hashgnn/).
+
 The steps of running the repository in Linux:
 
 Preparation work
@@ -51,3 +53,12 @@ Generation of experimental results in Matlab
         run parameters_save_fingerprints.m
         run parameters_lp_evaluation.m
         the results are in 'experiments/{data_name}.hashgnn.parameters.results.mat'
+
+
+@inproceedings{wu2021hashing, 
+ &emsp;&emsp;title={{H}ashing-{A}ccelerated {G}raph {N}eural {N}etworks for {L}ink {P}rediction}, 
+ &emsp;&emsp;author={Wu, Wei and Li, Bin and Luo, Chuan and Nejdl, Wolfgang}, 
+ &emsp;&emsp;booktitle={WWW}, 
+ &emsp;&emsp;pages={2910--2920}, 
+ &emsp;&emsp;year={2021} 
+}
