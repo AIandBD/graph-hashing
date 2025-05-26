@@ -1,6 +1,6 @@
 The datasets and source code of #GNN are for Hashing-Accelerated Graph Neural Networks for Link Prediction in WWW 2021.
 
-This algorithm has been adopted in [neo4j](https://neo4j.com/docs/graph-data-science/current/machine-learning/node-embeddings/hashgnn/).
+This algorithm has been adopted in [neo4j](https://neo4j.com/docs/graph-data-science/current/machine-learning/node-embeddings/hashgnn/) [slides[https://archive.fosdem.org/2023/schedule/event/graph_hashgnn/attachments/slides/5992/export/events/attachments/graph_hashgnn/slides/5992/HashGNN_FOSDEM_slides.pdf], video[https://www.youtube.com/watch?v=fccFuyjNEcM&t=621s]].
 
 The steps of running the repository in Linux:
 
