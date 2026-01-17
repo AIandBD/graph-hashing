@@ -32,9 +32,9 @@ To run heterogeneous graph classification experiments, use the provided shell sc
 If you use our algorithms in your research, please cite the following papers as reference in your publicaions:
 
 @inproceedings{li2025heterogeneous,
-  title={{H}eterogeneous {G}raph {E}mbedding {M}ade {M}ore {P}ractical},
-  author={Li, Fangfang and Zhang, Huihui and Li, Wei and Wu, Wei},
-  booktitle={SIGIR},
-  pages={688--697},
-  year={2025}
+   title={{H}eterogeneous {G}raph {E}mbedding {M}ade {M}ore {P}ractical},
+   author={Li, Fangfang and Zhang, Huihui and Li, Wei and Wu, Wei},
+   booktitle={SIGIR},
+   pages={688--697},
+   year={2025}
 }
