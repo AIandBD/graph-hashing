@@ -27,13 +27,14 @@ To run heterogeneous graph classification experiments, use the provided shell sc
    sh run_sr_ARE.sh
    sh run_DBLP.sh
    sh run_nr_BIO.sh
+   ```
 
 If you use our algorithms in your research, please cite the following papers as reference in your publicaions:
 
 @inproceedings{li2025heterogeneous,
   title={{H}eterogeneous {G}raph {E}mbedding {M}ade {M}ore {P}ractical},
   author={Li, Fangfang and Zhang, Huihui and Li, Wei and Wu, Wei},
-  booktitle={Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  booktitle={SIGIR},
   pages={688--697},
   year={2025}
 }
